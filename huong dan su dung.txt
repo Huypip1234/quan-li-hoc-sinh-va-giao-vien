@@ -1,0 +1,2 @@
+1) vao thu muc "run app"
+2) chay file .jar
