@@ -1,0 +1,8 @@
+An Binh An;14;wrer;6.6
+Chu Quang Huy;18;Cao Xanh;9.9
+Dang Ngoc Huyen;16;Ha Long;7.8
+Dao Thu Huyen;17;Ha Trung;8.9
+Nguyen Thi Cuc;15;Ha Long;2.5
+Nguyen Van Muoi;99;fe32;4.3
+con thi cac;2;To 6;3.3
+dao nguyen thu;42;123;4.4

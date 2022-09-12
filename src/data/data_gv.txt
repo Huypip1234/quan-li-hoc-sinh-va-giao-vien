@@ -1,0 +1,8 @@
+Dao Thi Ngoc;33;Cao Thang;binh thuong
+Pham Viet Hung;35;Ha Lam;binh thuong
+Ang Nhang Nhang;99;Ha long;tot
+Hoang Tran Ngoc;33;Hong Hai;tot
+Bui Thien Ngan;18;Ha Long;xuat sac
+chu thi huy;213;fe;xuat sac
+nguyen ha thai;32;Ha Trung;xuat sac
+Nguyen Tat Thanh;19;to 5;xuat sac
